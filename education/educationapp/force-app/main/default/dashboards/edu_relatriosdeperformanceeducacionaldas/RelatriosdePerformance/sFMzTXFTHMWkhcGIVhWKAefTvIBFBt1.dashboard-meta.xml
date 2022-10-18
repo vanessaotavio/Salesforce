@@ -76,7 +76,6 @@
         <rowHeight>36</rowHeight>
     </dashboardGridLayout>
     <dashboardType>LoggedInUser</dashboardType>
-    <description>Visão Geral de Performance por Disciplina, Curso e Instituição.</description>
     <isGridLayout>true</isGridLayout>
     <runningUser>test-2ifn65uowtbe@example.com</runningUser>
     <textColor>#000000</textColor>

@@ -14,7 +14,6 @@
     <isNavTabPersistenceDisabled>false</isNavTabPersistenceDisabled>
     <label>Acompanhamento Educacional</label>
     <navType>Console</navType>
-    <tabs>standard-home</tabs>
     <tabs>edu_instituicaodeensino__c</tabs>
     <tabs>edu_curso__c</tabs>
     <tabs>edu_disciplina__c</tabs>
@@ -40,9 +39,6 @@
         </mappings>
         <mappings>
             <tab>standard-Dashboard</tab>
-        </mappings>
-        <mappings>
-            <tab>standard-home</tab>
         </mappings>
         <mappings>
             <tab>standard-report</tab>
